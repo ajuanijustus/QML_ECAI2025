@@ -9,3 +9,4 @@ steve.campbell@ucd.ie \& simon.caton@ucd.ie
 Contents of repository:
 - Slide deck with links to getting into quantum resources
 - Jupyter Notebook Example: predicting Titanic Survival with QNNs
+- Dataset available: https://www.kaggle.com/datasets/yasserh/titanic-dataset
