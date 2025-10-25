@@ -4,7 +4,7 @@ qiskit, but migrate to pennylane as soon as possible
 
 interesting method: take a ResNet (Residual Network), amputate it, and stick the QNN in the end with the embeddings(?) from the ResNet
 
-python version for the env: 
+python version for the env: 3.9.6 (during the tutorial)
 
 applications in RL:
 - they have a PhD student using RL for optimising parameters in QNN methods (???)
