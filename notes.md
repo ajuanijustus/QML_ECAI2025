@@ -8,3 +8,4 @@ python version for the env: 3.9.6 (during the tutorial)
 
 applications in RL:
 - they have a PhD student using RL for optimising parameters in QNN methods (???) READ THEIR PAPER – https://inspirehep.net/files/2474d7eea346b01047a10568129fc2d0 (also the main results in a future paper not yet published publically)
+- other publications by Patrick Selig (the phd student in the lab)
